@@ -1,0 +1,1 @@
+An fourth academic activity, about to make an a responsive page using Bootstrap, diferent elemnets an appliying brak point focused in diferent width of screen
